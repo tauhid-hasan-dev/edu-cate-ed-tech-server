@@ -11,7 +11,7 @@
         "instructor": {
             "name": "Khalid Mishal",
             "published_date": "2022-08-23 12:28:34",
-            "img": "https://images.unsplash.com/photo-1506794778202-cad84cf45f1d?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80"
+            "img": "https://images.unsplash.com/photo-1654110455429-cf322b40a906?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=580&q=80"
         },
         "thumbnail_url": "https://itchief.ru/assets/images/covers/javascript-statements.png",
         "image_url": "https://www.setxrm.com/wp-content/uploads/2019/11/Javascript-programming-language.jpg",
@@ -29,9 +29,9 @@
         "instructor": {
             "name": "Ahmad Musa",
             "published_date": "2022-08-24 17:27:34",
-            "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+            "img": "http://www.hagopsphotography.com/wp-content/uploads/2021/07/medical-school-application-headshot.jpg"
         },
-        "thumbnail_url": "https://images.unsplash.com/photo-1633356122544-f134324a6cee?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8cmVhY3QlMjBqc3xlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60",
+        "thumbnail_url": "https://reactjs.org/logo-og.png",
         "image_url": "https://reactjs.org/logo-og.png",
         "details": "Congratulations!  You've found the most popular, most complete, and most up-to-date resource online for learning React and Redux! Thousands of other engineers have learned React and Redux, and you can too.  This course uses a time-tested, battle-proven method to make sure you understand exactly how React and Redux work, and will get you a new job working as a software engineer or help you build that app you've always been dreaming about.React training from top rated instructors on edu-Cate can help you become skilled in using this powerful JavaScript tool. With a React course, you can learn how to create elements that let users update data in real time, create useful interactive components on a webpage, and so much more. Millions have learned to use React with JavaScript on Udemy, and you can too."
     },
@@ -47,7 +47,7 @@
         "instructor": {
             "name": "Mahbub Saki",
             "published_date": "2022-05-24 17:27:34",
-            "img": "https://images.unsplash.com/photo-1566753323558-f4e0952af115?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=721&q=80"
+            "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhMuda2KaHNcy881qrzR2FeZUOtiM04huwhL5HE2N8t233eYFdpflNoFZu1I2Ad_At8c4&usqp=CAU"
         },
         "thumbnail_url": "https://www.moradam.com/wp-content/uploads/2022/01/1_KDMx1YspSrBcFJG-NDZgDg.png",
         "image_url": "https://www.datocms-assets.com/48401/1644864897-next-framework.jpeg?fit=max&w=900",
@@ -65,7 +65,7 @@
         "instructor": {
             "name": "Hasan Al Banna",
             "published_date": "2022-05-24 17:27:34",
-            "img": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80"
+            "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQuy2QF5dl26GM1zzDhFFgsclnp6pL86YKZvXii7IUZQHNh5ei_WSylj3KBEypCtlR7S10&usqp=CAU"
         },
         "thumbnail_url": "https://railsware.com/blog/wp-content/uploads/2018/09/2400%D1%851260-rw-blog-node-js.png",
         "image_url": "https://kinsta.com/wp-content/uploads/2021/05/what-is-node-js-featured-image-1024x512.jpg",
@@ -83,7 +83,7 @@
         "instructor": {
             "name": "Jhankar Mahbub",
             "published_date": "2022-05-24 17:27:34",
-            "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+            "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0zsCTLECgWnyAv6zGzvhCZIc57OcIqoIXfNjhIkPnP5S1jvGUatFijvR38yQ2i-gAUZ4&usqp=CAU"
         },
         "thumbnail_url": "https://laravelnews.imgix.net/images/tailwindcss.png?ixlib=php-3.3.1",
         "image_url": "https://www.creative-tim.com/blog/content/images/size/w960/wordpress/2021/02/blog-2.jpg",
@@ -101,7 +101,7 @@
         "instructor": {
             "name": "Tauhid Hasan",
             "published_date": "2022-05-24 17:27:34",
-            "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+            "img": "https://monteluke.com.au/wp-content/gallery/linkedin-profile-pictures/34217-MLS-Fabian-Ekker-003flin.jpg"
         },
         "thumbnail_url": "https://miro.medium.com/max/1400/1*jxvFpD7E00qsfY7PQzd5aA.png",
         "image_url": "https://media.geeksforgeeks.org/wp-content/cdn-uploads/20200529213529/Git-vs-GitHub.png",
