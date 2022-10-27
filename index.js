@@ -19,7 +19,7 @@ app.get('/courses/:id', (req, res) => {
 })
 
 app.get('/', (req, res) => {
-    res.send('hello world')
+    res.send('This a server for edu-Cate ed-Tech website')
 })
 
 app.listen(port, () => {

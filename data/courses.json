@@ -13,7 +13,7 @@
             "published_date": "2022-08-23 12:28:34",
             "img": "https://images.unsplash.com/photo-1654110455429-cf322b40a906?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=580&q=80"
         },
-        "thumbnail_url": "https://itchief.ru/assets/images/covers/javascript-statements.png",
+        "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRtxQBSXFdax4EQLqk95toHH0gHhNBLk6jiGUZK80tH3KNj9JShJcq8mG2dfvFP9fg2NQ&usqp=CAU",
         "image_url": "https://www.setxrm.com/wp-content/uploads/2019/11/Javascript-programming-language.jpg",
         "details": "This is the most complete JavaScript course on the Internet. It's an all-in-one package that will take you from the very fundamentals of JavaScript, all the way to building modern and complex applications.You will learn modern JavaScript from the very beginning, step-by-step. I will guide you through practical and fun code examples, important theory about how JavaScript works behind the scenes, and beautiful and complete projects.You will also learn how to think like a developer, how to plan application features, how to architect your code, how to debug code, and a lot of other real-world skills that you will need on your developer job.And unlike other courses, this one actually contains beginner, intermediate, advanced, and even expert topics, so you don't have to buy any other course in order to master JavaScript from the ground up!.But... You don't have to go into all these topics. This is a huge course, because, after all, it's The Complete JavaScript Course. In fact, it's like many courses in one! But you can become an excellent developer by watching only parts of the course. That's why I built this course in a very modular way, and designed pathways that will take you through the course faster.By the end of the course, you will have the knowledge and confidence that you need in order to ace your job interviews and become a professional developer."
     },
@@ -49,7 +49,7 @@
             "published_date": "2022-05-24 17:27:34",
             "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhMuda2KaHNcy881qrzR2FeZUOtiM04huwhL5HE2N8t233eYFdpflNoFZu1I2Ad_At8c4&usqp=CAU"
         },
-        "thumbnail_url": "https://www.moradam.com/wp-content/uploads/2022/01/1_KDMx1YspSrBcFJG-NDZgDg.png",
+        "thumbnail_url": "https://miro.medium.com/max/1400/1*2tmzU7bve-VlTkOMWsk_Hw.jpeg",
         "image_url": "https://www.datocms-assets.com/48401/1644864897-next-framework.jpeg?fit=max&w=900",
         "details": "Join this bestselling NextJS course and learn how to build highly dynamic, super fast and SEO-ready React apps with React & NextJS!.This course comes with two paths which you can take: The complete path (full >20h course) and the summary path (~3h summary module) - you can choose the path that best fits your time requirements!.We created the bestselling Udemy course on React, now We are super excited to share this course on NextJS with you - an in-depth course about an amazing React framework that allows you to take the next step as a React developer and build real, production-ready projects with React and Next.js!.Next.js is the production-ready, fullstack-capable framework for ReactJS - the most popular JavaScript library you can learn these days!"
     },
@@ -67,7 +67,7 @@
             "published_date": "2022-05-24 17:27:34",
             "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQuy2QF5dl26GM1zzDhFFgsclnp6pL86YKZvXii7IUZQHNh5ei_WSylj3KBEypCtlR7S10&usqp=CAU"
         },
-        "thumbnail_url": "https://railsware.com/blog/wp-content/uploads/2018/09/2400%D1%851260-rw-blog-node-js.png",
+        "thumbnail_url": "https://i0.wp.com/unaaldia.hispasec.com/wp-content/uploads/2018/11/nodejs-event-stream-module.jpg?resize=624%2C325&ssl=1",
         "image_url": "https://kinsta.com/wp-content/uploads/2021/05/what-is-node-js-featured-image-1024x512.jpg",
         "details": "Have you tried to learn Node before? You start a new course, and the instructor has you installing a bunch of libraries before you even know what Node is or how it works. You eventually get stuck and reach out to the instructor, but you get no reply. You then close the course and never open it again.Sound familiar?The Complete Node.js Developer Course covers the fundamentals of Node before diving deep into great tools like Express, Mongoose, and MongoDB.The entire course is based around a single goal: Turning you into a professional Node developer capable of developing, testing, and deploying real-world production applications."
     },
@@ -97,13 +97,13 @@
         },
         "price": "$19.99",
         "total_student": 6025,
-        "title": "Become an Expert in Git & GitHub",
+        "title": "Git & GitHub",
         "instructor": {
             "name": "Tauhid Hasan",
             "published_date": "2022-05-24 17:27:34",
             "img": "https://monteluke.com.au/wp-content/gallery/linkedin-profile-pictures/34217-MLS-Fabian-Ekker-003flin.jpg"
         },
-        "thumbnail_url": "https://miro.medium.com/max/1400/1*jxvFpD7E00qsfY7PQzd5aA.png",
+        "thumbnail_url": "https://www.eniun.com/wp-content/uploads/resumen-comandos.png",
         "image_url": "https://media.geeksforgeeks.org/wp-content/cdn-uploads/20200529213529/Git-vs-GitHub.png",
         "details": "We start off with Git Essentials.  The goal of this unit is to give you all the essential Git tools you need for daily use.  We start off talking about version control software, what it is, why it matters, and the history of Git.  Then we install Git and run through the Unix commands you'll need to work with Git (you can skip this if you're already familiar).  The bulk of this unit is focused on teaching the core Git mechanics like committing and branching and the associated concepts: the working directory, the repository, the staging area, etc.    We cover Git commands including: git init, git add, git commit, git status, git log, git branch, and git merge.  We end with a detailed look at branching, merging, and resolving conflicts.Then we move on to out Next Level Git unit, where we cover additional commands and Git concepts that are extremely useful, but maybe not as core as the Git Essentials.  We start with a comprehensive look at the gif diff command and the various comparisons that we can make between commits, branches, the working directory, the staging area, and more!  We pay special attention to reading and parsing the dense output generated by diffs.  Then we shift our focus to stashing with the git stash command, a convenience command that many users love incorporating into their Git workflow.  Finally, we dive deep into undoing changes and time traveling with Git.  We learn how to revisit earlier work, detach and re-attach HEAD, and discard changes.  We cover git commands that help us undo changes including git checkout, git restore, git reset, and git revert."
     }
